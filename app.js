@@ -31,6 +31,6 @@ mongoose
 //port listener 
     app.listen(port, ()=>{
         console.log(`app runing on port ${port}`);
-        console.log(`connecting to database .....`)
+        console.log(`connecting to database `)
     });
 
